@@ -29,7 +29,7 @@ export default function Home() {
         <ChangelogSection />
         <TroubleshootingSection />
         <FAQSection />
-        <TeamSection />
+        {/* <TeamSection /> */}
         <ContactForm />
       </main>
       <Footer />
